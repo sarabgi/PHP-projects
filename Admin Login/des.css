@@ -1,0 +1,74 @@
+div
+{
+font-family: "Lucida Console", "Courier New", monospace;
+  color: white;
+  background-color: black;
+  margin: 5px;
+  font-size: 25px;
+tr {
+
+ border-bottom: 1px solid #ddd;
+  background-color: #aeabab;
+}
+tr:hover {
+background-color: #8eaadb;
+}
+
+
+table, th, td {
+ width: 100%;
+ border-collapse: collapse;
+color: blue;
+}
+
+input [type="text"]{
+background-color: #bdd7ee;
+    font-size:12px;
+font-family: Lucida Sans;
+ font-weight: bold;
+ border: 3px solid #555;
+}.
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.form-submit-button {
+background: #B9DFFF;
+color: #fff;
+border: 1px solid #eee;
+border-radius: 20px;
+box-shadow: 5px 5px 5px #eee;
+text-shadow: none;
+}
+.form-submit-button:hover {
+background: #016ABC;
+color: #fff;
+border: 1px solid #eee;
+border-radius: 20px;
+box-shadow: 5px 5px 5px #eee;
+text-shadow: none;
+}
+
+.button [type="submit"] {
+  transition-duration: 0.3s;
+    font-size:12px;
+font-family: Helvetica;
+ font-weight: bold;
+border-radius: 8px;
+font-size: 20px;
+padding: 14px 40px;
+ border: 5px solid #d9e2f3;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+
+.thead{
+ width: 100%;
+ border-collapse: collapse;
+color: blue;
